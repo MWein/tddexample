@@ -1,0 +1,16 @@
+{
+  "name": "tddexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myFunc.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "superagent": "^6.1.0"
+  }
+}
